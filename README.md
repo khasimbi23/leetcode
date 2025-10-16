@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [4008-restore-finishing-order](https://github.com/khasimbi23/leetcode/tree/master/4008-restore-finishing-order) |
+## Hash Table
+|  |
+| ------- |
+| [4008-restore-finishing-order](https://github.com/khasimbi23/leetcode/tree/master/4008-restore-finishing-order) |
 <!---LeetCode Topics End-->
