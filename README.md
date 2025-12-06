@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/khasimbi23/leetcode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3830-find-closest-person](https://github.com/khasimbi23/leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
