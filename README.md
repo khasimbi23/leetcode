@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khasimbi23/leetcode/tree/master/0002-add-two-numbers) |
+| [0263-ugly-number](https://github.com/khasimbi23/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3830-find-closest-person](https://github.com/khasimbi23/leetcode/tree/master/3830-find-closest-person) |
