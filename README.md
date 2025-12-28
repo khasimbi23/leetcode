@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/khasimbi23/leetcode/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/khasimbi23/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3830-find-closest-person](https://github.com/khasimbi23/leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [4008-restore-finishing-order](https://github.com/khasimbi23/leetcode/tree/master/4008-restore-finishing-order) |
 ## Simulation
