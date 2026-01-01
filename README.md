@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khasimbi23/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/khasimbi23/leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/khasimbi23/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/khasimbi23/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khasimbi23/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/khasimbi23/leetcode/tree/master/0050-powx-n) |
 ## Brainteaser
 |  |
 | ------- |
