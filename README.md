@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/khasimbi23/leetcode/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/khasimbi23/leetcode/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khasimbi23/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -58,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/khasimbi23/leetcode/tree/master/0771-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khasimbi23/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khasimbi23/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
