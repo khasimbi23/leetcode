@@ -71,6 +71,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khasimbi23/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/khasimbi23/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/khasimbi23/leetcode/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/khasimbi23/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khasimbi23/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/khasimbi23/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
