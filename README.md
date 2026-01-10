@@ -68,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/khasimbi23/leetcode/tree/master/0038-count-and-say) |
 | [0771-jewels-and-stones](https://github.com/khasimbi23/leetcode/tree/master/0771-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khasimbi23/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
