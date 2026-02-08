@@ -37,6 +37,7 @@
 | ------- |
 | [0046-permutations](https://github.com/khasimbi23/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/khasimbi23/leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/khasimbi23/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khasimbi23/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/khasimbi23/leetcode/tree/master/0217-contains-duplicate) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khasimbi23/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -129,5 +130,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/khasimbi23/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khasimbi23/leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
