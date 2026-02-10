@@ -36,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/khasimbi23/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/khasimbi23/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/khasimbi23/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/khasimbi23/leetcode/tree/master/0118-pascals-triangle) |
@@ -101,6 +102,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/khasimbi23/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/khasimbi23/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/khasimbi23/leetcode/tree/master/0283-move-zeroes) |
 | [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
