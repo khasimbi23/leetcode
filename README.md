@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/khasimbi23/leetcode/tree/master/0136-single-number) |
+| [0868-binary-gap](https://github.com/khasimbi23/leetcode/tree/master/0868-binary-gap) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
