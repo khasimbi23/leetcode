@@ -17,6 +17,7 @@
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/khasimbi23/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3830-find-closest-person](https://github.com/khasimbi23/leetcode/tree/master/3830-find-closest-person) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khasimbi23/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/khasimbi23/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [4058-compute-alternating-sum](https://github.com/khasimbi23/leetcode/tree/master/4058-compute-alternating-sum) |
 ## String
@@ -111,6 +113,7 @@
 | [0868-binary-gap](https://github.com/khasimbi23/leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khasimbi23/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
