@@ -95,6 +95,7 @@
 | [0125-valid-palindrome](https://github.com/khasimbi23/leetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/khasimbi23/leetcode/tree/master/0771-jewels-and-stones) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khasimbi23/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khasimbi23/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khasimbi23/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -155,6 +156,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2182-construct-string-with-repeat-limit](https://github.com/khasimbi23/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 ## Matrix
