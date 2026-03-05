@@ -43,6 +43,7 @@
 | [0001-two-sum](https://github.com/khasimbi23/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/khasimbi23/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khasimbi23/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khasimbi23/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/khasimbi23/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/khasimbi23/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -141,6 +142,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khasimbi23/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khasimbi23/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
