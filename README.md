@@ -48,6 +48,7 @@
 | [0046-permutations](https://github.com/khasimbi23/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/khasimbi23/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/khasimbi23/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/khasimbi23/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/khasimbi23/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/khasimbi23/leetcode/tree/master/0118-pascals-triangle) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/khasimbi23/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/khasimbi23/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khasimbi23/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khasimbi23/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -177,6 +179,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/khasimbi23/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/khasimbi23/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/khasimbi23/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
