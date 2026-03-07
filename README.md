@@ -108,6 +108,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/khasimbi23/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khasimbi23/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/khasimbi23/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khasimbi23/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/khasimbi23/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2182-construct-string-with-repeat-limit](https://github.com/khasimbi23/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -189,6 +190,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/khasimbi23/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khasimbi23/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/khasimbi23/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,4 +215,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khasimbi23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/khasimbi23/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
