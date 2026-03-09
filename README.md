@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khasimbi23/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/khasimbi23/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0118-pascals-triangle](https://github.com/khasimbi23/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khasimbi23/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/khasimbi23/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/khasimbi23/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
