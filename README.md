@@ -20,6 +20,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/khasimbi23/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khasimbi23/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3830-find-closest-person](https://github.com/khasimbi23/leetcode/tree/master/3830-find-closest-person) |
@@ -73,6 +74,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/khasimbi23/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khasimbi23/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/khasimbi23/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/khasimbi23/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khasimbi23/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -100,6 +102,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khasimbi23/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/khasimbi23/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/khasimbi23/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [4058-compute-alternating-sum](https://github.com/khasimbi23/leetcode/tree/master/4058-compute-alternating-sum) |
 ## String
 |  |
@@ -198,6 +201,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/khasimbi23/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/khasimbi23/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Heap (Priority Queue)
 |  |
