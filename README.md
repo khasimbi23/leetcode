@@ -77,6 +77,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/khasimbi23/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/khasimbi23/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khasimbi23/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/khasimbi23/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/khasimbi23/leetcode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/khasimbi23/leetcode/tree/master/4058-compute-alternating-sum) |
@@ -204,6 +205,7 @@
 | [2373-largest-local-values-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/khasimbi23/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/khasimbi23/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/khasimbi23/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/khasimbi23/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/khasimbi23/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/khasimbi23/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/khasimbi23/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Divide and Conquer
 |  |
 | ------- |
