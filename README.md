@@ -63,6 +63,7 @@
 | [0485-max-consecutive-ones](https://github.com/khasimbi23/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/khasimbi23/leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/khasimbi23/leetcode/tree/master/1089-duplicate-zeros) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khasimbi23/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khasimbi23/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -202,6 +203,7 @@
 | [0054-spiral-matrix](https://github.com/khasimbi23/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/khasimbi23/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -262,4 +264,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/khasimbi23/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
