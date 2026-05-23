@@ -69,6 +69,7 @@
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 | [1089-duplicate-zeros](https://github.com/khasimbi23/leetcode/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khasimbi23/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khasimbi23/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khasimbi23/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -180,6 +181,7 @@
 | [0162-find-peak-element](https://github.com/khasimbi23/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khasimbi23/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/khasimbi23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khasimbi23/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khasimbi23/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khasimbi23/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/khasimbi23/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -214,6 +216,7 @@
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khasimbi23/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
