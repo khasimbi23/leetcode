@@ -65,6 +65,7 @@
 | [0283-move-zeroes](https://github.com/khasimbi23/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khasimbi23/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/khasimbi23/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/khasimbi23/leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/khasimbi23/leetcode/tree/master/0912-sort-an-array) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 | [1089-duplicate-zeros](https://github.com/khasimbi23/leetcode/tree/master/1089-duplicate-zeros) |
@@ -107,6 +108,7 @@
 | [0054-spiral-matrix](https://github.com/khasimbi23/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/khasimbi23/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/khasimbi23/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/khasimbi23/leetcode/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khasimbi23/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khasimbi23/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -214,6 +216,7 @@
 | [0054-spiral-matrix](https://github.com/khasimbi23/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/khasimbi23/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/khasimbi23/leetcode/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khasimbi23/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
