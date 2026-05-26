@@ -14,6 +14,7 @@
 | [0050-powx-n](https://github.com/khasimbi23/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/khasimbi23/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/khasimbi23/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/khasimbi23/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/khasimbi23/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/khasimbi23/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -61,6 +62,7 @@
 | [0162-find-peak-element](https://github.com/khasimbi23/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khasimbi23/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/khasimbi23/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/khasimbi23/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/khasimbi23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/khasimbi23/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/khasimbi23/leetcode/tree/master/0283-move-zeroes) |
@@ -297,4 +299,12 @@
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khasimbi23/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khasimbi23/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
