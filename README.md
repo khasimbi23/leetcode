@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/khasimbi23/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/khasimbi23/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/khasimbi23/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/khasimbi23/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/khasimbi23/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/khasimbi23/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -32,6 +33,7 @@
 | [0002-add-two-numbers](https://github.com/khasimbi23/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/khasimbi23/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/khasimbi23/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/khasimbi23/leetcode/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khasimbi23/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Brainteaser
 |  |
@@ -155,6 +157,7 @@
 | ------- |
 | [0136-single-number](https://github.com/khasimbi23/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/khasimbi23/leetcode/tree/master/0231-power-of-two) |
 | [0868-binary-gap](https://github.com/khasimbi23/leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/khasimbi23/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
