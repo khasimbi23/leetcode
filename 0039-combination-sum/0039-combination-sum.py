@@ -6,7 +6,7 @@ class Solution:
                 result.append(path[:])
                 return
             if total > target:
-                return
+                return 0
             for i in range(start, len(candidates)):
                 path.append(candidates[i])
                 backtrack(i, path, total + candidates[i])
