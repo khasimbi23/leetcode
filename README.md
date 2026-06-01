@@ -145,6 +145,7 @@
 | [0443-string-compression](https://github.com/khasimbi23/leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/khasimbi23/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/khasimbi23/leetcode/tree/master/0771-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khasimbi23/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/khasimbi23/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khasimbi23/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/khasimbi23/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -341,4 +342,5 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/khasimbi23/leetcode/tree/master/0143-reorder-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khasimbi23/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
