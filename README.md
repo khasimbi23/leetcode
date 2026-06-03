@@ -144,6 +144,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/khasimbi23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/khasimbi23/leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/khasimbi23/leetcode/tree/master/0125-valid-palindrome) |
+| [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/khasimbi23/leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/khasimbi23/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/khasimbi23/leetcode/tree/master/0771-jewels-and-stones) |
@@ -243,6 +244,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2182-construct-string-with-repeat-limit](https://github.com/khasimbi23/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -347,6 +349,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/khasimbi23/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/khasimbi23/leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/khasimbi23/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khasimbi23/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -361,5 +364,6 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/khasimbi23/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
