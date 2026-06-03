@@ -84,6 +84,7 @@
 | [0283-move-zeroes](https://github.com/khasimbi23/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khasimbi23/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/khasimbi23/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/khasimbi23/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/khasimbi23/leetcode/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/khasimbi23/leetcode/tree/master/0912-sort-an-array) |
@@ -350,6 +351,7 @@
 | [0143-reorder-list](https://github.com/khasimbi23/leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/khasimbi23/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/khasimbi23/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khasimbi23/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -365,5 +367,6 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/khasimbi23/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/khasimbi23/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
