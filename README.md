@@ -358,10 +358,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khasimbi23/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/khasimbi23/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khasimbi23/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/khasimbi23/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -369,4 +371,8 @@
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/khasimbi23/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/khasimbi23/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
