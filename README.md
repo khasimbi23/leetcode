@@ -350,6 +350,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/khasimbi23/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/khasimbi23/leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/khasimbi23/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/khasimbi23/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/khasimbi23/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -358,11 +359,13 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khasimbi23/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/khasimbi23/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/khasimbi23/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khasimbi23/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/khasimbi23/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/khasimbi23/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
