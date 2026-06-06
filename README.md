@@ -14,6 +14,7 @@
 | [0143-reorder-list](https://github.com/khasimbi23/leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/khasimbi23/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/khasimbi23/leetcode/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/khasimbi23/leetcode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/khasimbi23/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khasimbi23/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -84,6 +85,7 @@
 | [0239-sliding-window-maximum](https://github.com/khasimbi23/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/khasimbi23/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khasimbi23/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/khasimbi23/leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/khasimbi23/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/khasimbi23/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/khasimbi23/leetcode/tree/master/0867-transpose-matrix) |
@@ -366,6 +368,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khasimbi23/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khasimbi23/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/khasimbi23/leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/khasimbi23/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -373,6 +376,7 @@
 | [0225-implement-stack-using-queues](https://github.com/khasimbi23/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khasimbi23/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/khasimbi23/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/khasimbi23/leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/khasimbi23/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/khasimbi23/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Stack
