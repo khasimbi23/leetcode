@@ -339,11 +339,13 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/khasimbi23/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 ## Enumeration
 |  |
@@ -404,8 +406,10 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/khasimbi23/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/khasimbi23/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
