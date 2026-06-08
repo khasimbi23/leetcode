@@ -125,6 +125,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/khasimbi23/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/khasimbi23/leetcode/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/khasimbi23/leetcode/tree/master/0771-jewels-and-stones) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khasimbi23/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -239,6 +240,7 @@
 | [0015-3sum](https://github.com/khasimbi23/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/khasimbi23/leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/khasimbi23/leetcode/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khasimbi23/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khasimbi23/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -344,6 +346,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/khasimbi23/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
@@ -354,6 +357,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/khasimbi23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 ## Enumeration
 |  |
@@ -419,6 +423,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/khasimbi23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,4 +433,5 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/khasimbi23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
