@@ -356,6 +356,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khasimbi23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/khasimbi23/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khasimbi23/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -423,6 +424,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khasimbi23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/khasimbi23/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khasimbi23/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -436,6 +438,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khasimbi23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/khasimbi23/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khasimbi23/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -445,6 +448,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/khasimbi23/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khasimbi23/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/khasimbi23/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khasimbi23/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
