@@ -90,6 +90,7 @@
 | [0485-max-consecutive-ones](https://github.com/khasimbi23/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/khasimbi23/leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/khasimbi23/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/khasimbi23/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khasimbi23/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/khasimbi23/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/khasimbi23/leetcode/tree/master/0867-transpose-matrix) |
@@ -275,6 +276,7 @@
 | [0130-surrounded-regions](https://github.com/khasimbi23/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khasimbi23/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/khasimbi23/leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/khasimbi23/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khasimbi23/leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/khasimbi23/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/khasimbi23/leetcode/tree/master/0994-rotting-oranges) |
@@ -343,6 +345,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/khasimbi23/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khasimbi23/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/khasimbi23/leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khasimbi23/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/khasimbi23/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -365,6 +368,7 @@
 | [0130-surrounded-regions](https://github.com/khasimbi23/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khasimbi23/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/khasimbi23/leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/khasimbi23/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khasimbi23/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khasimbi23/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/khasimbi23/leetcode/tree/master/0841-keys-and-rooms) |
@@ -386,6 +390,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/khasimbi23/leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/khasimbi23/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khasimbi23/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khasimbi23/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/khasimbi23/leetcode/tree/master/0841-keys-and-rooms) |
