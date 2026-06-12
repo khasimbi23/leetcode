@@ -98,6 +98,7 @@
 | [0739-daily-temperatures](https://github.com/khasimbi23/leetcode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/khasimbi23/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/khasimbi23/leetcode/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/khasimbi23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/khasimbi23/leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/khasimbi23/leetcode/tree/master/0994-rotting-oranges) |
@@ -233,6 +234,7 @@
 | [0443-string-compression](https://github.com/khasimbi23/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/khasimbi23/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/khasimbi23/leetcode/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/khasimbi23/leetcode/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khasimbi23/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -260,6 +262,7 @@
 | [0015-3sum](https://github.com/khasimbi23/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/khasimbi23/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/khasimbi23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/khasimbi23/leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/khasimbi23/leetcode/tree/master/1029-two-city-scheduling) |
@@ -280,6 +283,7 @@
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/khasimbi23/leetcode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/khasimbi23/leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/khasimbi23/leetcode/tree/master/1029-two-city-scheduling) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
