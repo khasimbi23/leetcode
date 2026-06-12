@@ -103,6 +103,7 @@
 | [0994-rotting-oranges](https://github.com/khasimbi23/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khasimbi23/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
+| [1029-two-city-scheduling](https://github.com/khasimbi23/leetcode/tree/master/1029-two-city-scheduling) |
 | [1089-duplicate-zeros](https://github.com/khasimbi23/leetcode/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khasimbi23/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -261,6 +262,7 @@
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/khasimbi23/leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1029-two-city-scheduling](https://github.com/khasimbi23/leetcode/tree/master/1029-two-city-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khasimbi23/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khasimbi23/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -278,6 +280,7 @@
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/khasimbi23/leetcode/tree/master/0860-lemonade-change) |
+| [1029-two-city-scheduling](https://github.com/khasimbi23/leetcode/tree/master/1029-two-city-scheduling) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2182-construct-string-with-repeat-limit](https://github.com/khasimbi23/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
