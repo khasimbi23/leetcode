@@ -114,6 +114,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khasimbi23/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/khasimbi23/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khasimbi23/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/khasimbi23/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khasimbi23/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -139,6 +140,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khasimbi23/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2182-construct-string-with-repeat-limit](https://github.com/khasimbi23/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khasimbi23/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/khasimbi23/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4008-restore-finishing-order](https://github.com/khasimbi23/leetcode/tree/master/4008-restore-finishing-order) |
 ## Simulation
@@ -185,6 +187,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khasimbi23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khasimbi23/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khasimbi23/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2574-left-and-right-sum-differences](https://github.com/khasimbi23/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/khasimbi23/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/khasimbi23/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -243,6 +246,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/khasimbi23/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khasimbi23/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khasimbi23/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khasimbi23/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khasimbi23/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khasimbi23/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/khasimbi23/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -255,6 +259,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khasimbi23/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khasimbi23/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khasimbi23/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
@@ -458,6 +463,7 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/khasimbi23/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khasimbi23/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Tree
 |  |
 | ------- |
