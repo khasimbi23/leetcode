@@ -71,6 +71,7 @@
 | [0048-rotate-image](https://github.com/khasimbi23/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/khasimbi23/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/khasimbi23/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/khasimbi23/leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/khasimbi23/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/khasimbi23/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khasimbi23/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/khasimbi23/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/khasimbi23/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/khasimbi23/leetcode/tree/master/0881-boats-to-save-people) |
