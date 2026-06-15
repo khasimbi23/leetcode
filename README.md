@@ -95,6 +95,7 @@
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/khasimbi23/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/khasimbi23/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0517-super-washing-machines](https://github.com/khasimbi23/leetcode/tree/master/0517-super-washing-machines) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khasimbi23/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/khasimbi23/leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/khasimbi23/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -298,6 +299,7 @@
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/khasimbi23/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
+| [0517-super-washing-machines](https://github.com/khasimbi23/leetcode/tree/master/0517-super-washing-machines) |
 | [0860-lemonade-change](https://github.com/khasimbi23/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/khasimbi23/leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/khasimbi23/leetcode/tree/master/1029-two-city-scheduling) |
