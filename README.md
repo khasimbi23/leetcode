@@ -81,6 +81,7 @@
 | [0119-pascals-triangle-ii](https://github.com/khasimbi23/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khasimbi23/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/khasimbi23/leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/khasimbi23/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/khasimbi23/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/khasimbi23/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khasimbi23/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -296,6 +297,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/khasimbi23/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khasimbi23/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/khasimbi23/leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/khasimbi23/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
