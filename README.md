@@ -30,6 +30,7 @@
 | [0263-ugly-number](https://github.com/khasimbi23/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/khasimbi23/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/khasimbi23/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/khasimbi23/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -47,6 +48,7 @@
 | [0143-reorder-list](https://github.com/khasimbi23/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/khasimbi23/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/khasimbi23/leetcode/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/khasimbi23/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khasimbi23/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Brainteaser
 |  |
@@ -215,6 +217,7 @@
 | [0191-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/khasimbi23/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/khasimbi23/leetcode/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/khasimbi23/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/khasimbi23/leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/khasimbi23/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
