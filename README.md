@@ -34,6 +34,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/khasimbi23/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/khasimbi23/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khasimbi23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2396-strictly-palindromic-number](https://github.com/khasimbi23/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/khasimbi23/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khasimbi23/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -50,6 +51,7 @@
 | [0231-power-of-two](https://github.com/khasimbi23/leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/khasimbi23/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khasimbi23/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khasimbi23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Brainteaser
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khasimbi23/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/khasimbi23/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khasimbi23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khasimbi23/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1975-maximum-matrix-sum](https://github.com/khasimbi23/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/khasimbi23/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -170,6 +173,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khasimbi23/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khasimbi23/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khasimbi23/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khasimbi23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/khasimbi23/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/khasimbi23/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [4058-compute-alternating-sum](https://github.com/khasimbi23/leetcode/tree/master/4058-compute-alternating-sum) |
@@ -490,6 +494,7 @@
 | [0622-design-circular-queue](https://github.com/khasimbi23/leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/khasimbi23/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/khasimbi23/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/khasimbi23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
