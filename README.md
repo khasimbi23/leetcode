@@ -28,6 +28,7 @@
 | [0204-count-primes](https://github.com/khasimbi23/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/khasimbi23/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/khasimbi23/leetcode/tree/master/0263-ugly-number) |
+| [0282-expression-add-operators](https://github.com/khasimbi23/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/khasimbi23/leetcode/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/khasimbi23/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/khasimbi23/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -185,6 +186,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/khasimbi23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/khasimbi23/leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/khasimbi23/leetcode/tree/master/0125-valid-palindrome) |
+| [0282-expression-add-operators](https://github.com/khasimbi23/leetcode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/khasimbi23/leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/khasimbi23/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -308,6 +310,7 @@
 | [0046-permutations](https://github.com/khasimbi23/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/khasimbi23/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khasimbi23/leetcode/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/khasimbi23/leetcode/tree/master/0282-expression-add-operators) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/khasimbi23/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Greedy
 |  |
