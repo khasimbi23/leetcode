@@ -82,6 +82,7 @@
 | [0066-plus-one](https://github.com/khasimbi23/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/khasimbi23/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/khasimbi23/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/khasimbi23/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/khasimbi23/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/khasimbi23/leetcode/tree/master/0118-pascals-triangle) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khasimbi23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/khasimbi23/leetcode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/khasimbi23/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/khasimbi23/leetcode/tree/master/0125-valid-palindrome) |
 | [0282-expression-add-operators](https://github.com/khasimbi23/leetcode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/khasimbi23/leetcode/tree/master/0402-remove-k-digits) |
@@ -311,6 +313,7 @@
 | [0039-combination-sum](https://github.com/khasimbi23/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/khasimbi23/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/khasimbi23/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/khasimbi23/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/khasimbi23/leetcode/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/khasimbi23/leetcode/tree/master/0282-expression-add-operators) |
 | [0980-unique-paths-iii](https://github.com/khasimbi23/leetcode/tree/master/0980-unique-paths-iii) |
@@ -343,6 +346,7 @@
 | [0054-spiral-matrix](https://github.com/khasimbi23/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/khasimbi23/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/khasimbi23/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/khasimbi23/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/khasimbi23/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khasimbi23/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/khasimbi23/leetcode/tree/master/0463-island-perimeter) |
@@ -456,6 +460,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/khasimbi23/leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khasimbi23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
