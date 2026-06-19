@@ -116,6 +116,7 @@
 | [0881-boats-to-save-people](https://github.com/khasimbi23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/khasimbi23/leetcode/tree/master/0912-sort-an-array) |
+| [0980-unique-paths-iii](https://github.com/khasimbi23/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/khasimbi23/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khasimbi23/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
@@ -229,6 +230,7 @@
 | [0231-power-of-two](https://github.com/khasimbi23/leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/khasimbi23/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/khasimbi23/leetcode/tree/master/0868-binary-gap) |
+| [0980-unique-paths-iii](https://github.com/khasimbi23/leetcode/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/khasimbi23/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khasimbi23/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khasimbi23/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -311,6 +313,7 @@
 | [0078-subsets](https://github.com/khasimbi23/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khasimbi23/leetcode/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/khasimbi23/leetcode/tree/master/0282-expression-add-operators) |
+| [0980-unique-paths-iii](https://github.com/khasimbi23/leetcode/tree/master/0980-unique-paths-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/khasimbi23/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Greedy
 |  |
@@ -346,6 +349,7 @@
 | [0695-max-area-of-island](https://github.com/khasimbi23/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khasimbi23/leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/khasimbi23/leetcode/tree/master/0867-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/khasimbi23/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/khasimbi23/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khasimbi23/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khasimbi23/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
