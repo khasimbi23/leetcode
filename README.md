@@ -95,6 +95,7 @@
 | [0162-find-peak-element](https://github.com/khasimbi23/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khasimbi23/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/khasimbi23/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/khasimbi23/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/khasimbi23/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/khasimbi23/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/khasimbi23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -384,6 +385,7 @@
 | [0119-pascals-triangle-ii](https://github.com/khasimbi23/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khasimbi23/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khasimbi23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/khasimbi23/leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/khasimbi23/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/khasimbi23/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
