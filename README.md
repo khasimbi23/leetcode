@@ -102,6 +102,7 @@
 | [0217-contains-duplicate](https://github.com/khasimbi23/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/khasimbi23/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/khasimbi23/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/khasimbi23/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/khasimbi23/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/khasimbi23/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/khasimbi23/leetcode/tree/master/0463-island-perimeter) |
@@ -283,6 +284,7 @@
 | [0162-find-peak-element](https://github.com/khasimbi23/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khasimbi23/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/khasimbi23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/khasimbi23/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khasimbi23/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khasimbi23/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khasimbi23/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -387,6 +389,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khasimbi23/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khasimbi23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/khasimbi23/leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/khasimbi23/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/khasimbi23/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/khasimbi23/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/khasimbi23/leetcode/tree/master/1143-longest-common-subsequence) |
