@@ -11,6 +11,8 @@ class Solution:
             diff,r,c = heapq.heappop(minheap)
             if diff>grid[r][c]:
                 continue
+            if r==m-1 and c==n-1:
+                return diff
             for dr,dc in d:
                 nr,nc = dr+r,dc+c
                 if 0<=nr<m and 0<=nc<n:
