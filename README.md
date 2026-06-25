@@ -375,6 +375,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/khasimbi23/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/khasimbi23/leetcode/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/khasimbi23/leetcode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/khasimbi23/leetcode/tree/master/0912-sort-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/khasimbi23/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2182-construct-string-with-repeat-limit](https://github.com/khasimbi23/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -440,6 +441,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/khasimbi23/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/khasimbi23/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khasimbi23/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/khasimbi23/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -458,6 +460,7 @@
 | [0463-island-perimeter](https://github.com/khasimbi23/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/khasimbi23/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khasimbi23/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/khasimbi23/leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khasimbi23/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/khasimbi23/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -481,6 +484,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/khasimbi23/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khasimbi23/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/khasimbi23/leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khasimbi23/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/khasimbi23/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khasimbi23/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -583,4 +587,8 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/khasimbi23/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/khasimbi23/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khasimbi23/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/khasimbi23/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
