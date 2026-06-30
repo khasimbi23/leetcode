@@ -12,6 +12,7 @@ class Solution:
         while queue and stops <= k:
             for _ in range(len(queue)):
                 node, weight = queue.popleft()
+                
                 for nei, nwt in adj[node]:
                     if weight + nwt < distance[nei]:
                         distance[nei] = weight + nwt
